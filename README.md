@@ -1,4 +1,3 @@
-# mobileappsprework
+# Mobile App Projects - Prework
 
-app for the prework submission for mobile app projects
 
